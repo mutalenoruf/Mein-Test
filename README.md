@@ -15,4 +15,4 @@ Ein klar strukturiertes, ehrliches und praxisnahes Portfolio, das zeigt, wie ich
 ## Projekte
 projekt-f.md
 
-- [Projekt F](projekt/projekt-f.md)
+- [Projekt F](‎projekt-f.md)
