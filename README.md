@@ -14,3 +14,4 @@ Hier zeige ich, was ich in diesem Repository dokumentiere: meine Projekte, Refle
 Ein klar strukturiertes, ehrliches und praxisnahes Portfolio, das zeigt, wie ich lerne, denke und Probleme löse.
 ## Projekte
 [Projekt F ansehen](projekt-f.md)
+git commit
