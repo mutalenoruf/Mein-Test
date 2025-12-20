@@ -13,9 +13,4 @@ Hier zeige ich, was ich in diesem Repository dokumentiere: meine Projekte, Refle
 ## Ziel dieses Repos
 Ein klar strukturiertes, ehrliches und praxisnahes Portfolio, das zeigt, wie ich lerne, denke und Probleme löse.
 ## Projekte
-- [Projekt A](projekte/projekt-a.md)
-- [Projekt B](projekte/projekt-b.md)
-- [Projekt C](projekte/projekt-c.md)
-- [Projekt D](projekte/projekt-d.md)
-- [Projekt E](projekte/projekt-e.md)
-- [Projekt F](projekte/projekt-f.md)
+projekt-f.md
