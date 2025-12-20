@@ -1,18 +1,14 @@
-# Projekt F: Taxonomie-Quiz – Realität vs. Lehrbuch
+# Portfolio-Übersicht
 
-> Warum ich den Test nicht bestanden habe – und warum das gut ist.
+Hier zeige ich, was ich in diesem Repository dokumentiere: meine Projekte, Reflexionen und Lernschritte im Bereich KI, Content Strategy und praktischer Anwendung.
 
-## 🧠 Inhalt
-Dieses Projekt analysiert die Unterschiede zwischen einer didaktischen Lehrbuch-Taxonomie und einer realistischen Systemstruktur im Bereich Informatik, KI, ML, Deep Learning und Data Science.
+## Projekte
+- Projekt A – Prompt-Design & Evaluation  
+- Projekt B – Peer Review & Lernstrategien  
+- Projekt C – Spam vs. Ham Modelltraining  
+- Projekt D – KI & Ethik  
+- Projekt E – Kreatives Gesundheitswesen-Projekt  
+- Projekt F – Taxonomie-Quiz: Realität vs. Lehrbuch  
 
-## 📚 Vergleich
-**Lehrbuch-Taxonomie:**
-- Informatik → KI → ML → Deep Learning
-- Data Science separat
-
-**Realistische Taxonomie:**
-- Informatik → KI → ML → Deep Learning
-- Data Science als Querschnittsbereich mit Überschneidungen
-
-## 💬 Reflexion
-Das Projekt zeigt, wie ich über Multiple-Choice-Logik hinausdenke und komplexe Zusammenhänge praxisnah darstelle.
+## Ziel dieses Repos
+Ein klar strukturiertes, ehrliches und praxisnahes Portfolio, das zeigt, wie ich lerne, denke und Probleme löse.
