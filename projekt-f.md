@@ -19,3 +19,5 @@ Realistische Taxonomie:
 
 💬 Reflexion
 Das Projekt zeigt, wie ich über Multiple-Choice-Logik hinausdenke und komplexe Zusammenhänge praxisnah darstelle.
+- Informatik → KI → ML → Deep Learning  
+- Data Science separat
