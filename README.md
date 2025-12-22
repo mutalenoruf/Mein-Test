@@ -6,7 +6,7 @@ css: "/assets/css/style.css"
 # Portfolio-Übersicht 
 
 
-# Portfolio-Übersicht
+
 
 
 Hier zeige ich, was ich in diesem Repository dokumentiere: meine Projekte, Reflexionen und Lernschritte im Bereich KI, Content Strategy und praktischer Anwendung.
