@@ -1,7 +1,8 @@
 ---
 title: "Portfolio"
-css: "/assets/css/style.css"
+css:"/assets/css/style.css"
 ---
+
 # Portfolio-Übersicht
 
 
