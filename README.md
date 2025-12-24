@@ -2,7 +2,7 @@
 
 Hier dokumentiere ich meine Projekte, Reflexionen und Lernschritte im Bereich KI, Content Strategy und praktischer Anwendung.
 
-Über mich 
+Kurztext über dich (Deutsch)
 Patricia verbindet strategisches Denken, kreative Problemlösung und praktische KI‑Anwendung zu einem modernen, ehrlichen Arbeitsstil. Sie arbeitet strukturiert, lernt schnell und dokumentiert transparent, wie sie Herausforderungen analysiert, Entscheidungen trifft und Projekte umsetzt. Ihr Fokus liegt auf KI‑gestützter Content Strategy, Prompt‑Engineering und der Entwicklung klarer, praxisnaher Workflows.
 
 ⭐ Short bio (English)
