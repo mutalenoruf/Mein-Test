@@ -3,6 +3,7 @@
 🇩🇪 Funktionale Kategorien (Deutsch)
 
 Information
+<img width="1024" height="1024" alt="Minimalistisches Eul" src="https://github.com/user-attachments/assets/6050bf80-43d8-45b3-ae8c-82965dca6337" />
 
 • 	Definitionen
 • 	Erklärungen
