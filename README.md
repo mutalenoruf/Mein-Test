@@ -51,7 +51,7 @@ A clear, structured and practical portfolio demonstrating how I learn, think and
 - [Projekt C](projectC_de.md)
 - [Projekt D](projectD_de.md)
 - [Projekt E](projectE_de.md)
-- [Projekt F](projectF_de.md)
+- [Projekt F](project-f.md)
 
 ### 🇬🇧 English
 - [Project A](projectA_en.md)
@@ -59,5 +59,5 @@ A clear, structured and practical portfolio demonstrating how I learn, think and
 - [Project C](projectC_en.md)
 - [Project D](projectD_en.md)
 - [Project E](projectE_en.md)
-- [Project F](projectF_en.md)
+- [Project F](project-f.md)
 
