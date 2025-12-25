@@ -1,7 +1,8 @@
 🧩 Projekt F: Taxonomie-Quiz – Realität vs. Lehrbuch
 
 🇩🇪 Funktionale Kategorien (Deutsch)
-Information
+
+#Information#
 • 	Definitionen
 • 	Erklärungen
 • 	Zusammenfassungen
