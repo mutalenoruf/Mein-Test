@@ -1,4 +1,4 @@
-🟦 G – KI und ich
+**🟦 G – KI und ich**
 Ein Dialog über Zusammenarbeit, Grenzen und gesunden Menschenverstand
 (Deutsch)
 Künstliche Intelligenz ist ein Werkzeug — faszinierend, leistungsfähig und manchmal überraschend unberechenbar.
