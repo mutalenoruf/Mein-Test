@@ -1,6 +1,6 @@
 **🟦 G – KI und ich**
 
-Ein Dialog über Zusammenarbeit, Grenzen und gesunden Menschenverstand
+<h1>Ein Dialog über Zusammenarbeit, Grenzen und gesunden Menschenverstand</h1>h1>
 
 Künstliche Intelligenz ist ein Werkzeug — faszinierend, leistungsfähig und manchmal überraschend unberechenbar.
 Um zu zeigen, wie wichtig der Mensch in dieser Zusammenarbeit bleibt, habe ich eine KI bewusst in einen „absurd-dummen Modus“ geschickt. Der folgende Dialog ist 
