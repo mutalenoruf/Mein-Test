@@ -1,17 +1,5 @@
 # 📘 Patricia AI Labs – Portfolio & Lernreise
 
-
-INHALTSVERZEICHNIS
-1. 	About Me
-2. 	Skills Profile
-3. 	Project Overview
-4. 	Project A – AI Evaluation
-5. 	Project B – Peer Review & Learning Strategies
-6. 	Project C – Spam vs. Ham Model Training
-7. 	Project D – AI & Ethics
-8. 	Project E – Creative Healthcare Project
-9. 	Contact
-
 1. ABOUT ME
    
 📌 Deutsch
@@ -67,11 +55,7 @@ I am an analytical, creative, and socially aware thinker with a strong focus on 
 - [Projekt G](projectG_de.md)
 
 
-9. CONTACT
-📍 Zürich, Schweiz
-📧 [E‑Mail]
-🔗 [LinkedIn, optional]
-📄 Portfolio: [optional]
+
 
 
 
