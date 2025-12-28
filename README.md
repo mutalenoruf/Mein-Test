@@ -1,6 +1,6 @@
-# 📘 Patricia AI Labs – Portfolio & Lernreise
+# 📘 Patricia AI Labs – Portfolio
 
-1. ABOUT ME
+**1. ABOUT ME**
    
 📌 Deutsch
 
