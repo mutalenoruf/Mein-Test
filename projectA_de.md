@@ -4,7 +4,7 @@
 
 **Analyse der Antwortqualität eines KI‑Modells (Meta) anhand eines politischen Fachthemas**
 
-1. Ziel des Tests
+**1. Ziel des Tests**
 
 Ziel war es, die Fähigkeit eines KI‑Modells (Meta) zu prüfen, komplexe, faktenbasierte Fragen korrekt zu beantworten.
 
@@ -37,10 +37,10 @@ Dabei wurden bewusst auch Fehlannahmen eingebaut, um zu testen, ob das Modell:
 A) Falsche Fakten
 Das Modell nannte mehrfach:
 
-• 	ehemalige Bundesräte (z. B. Alain Berset, Viola Amherd)
-• 	frei erfundene Bundesräte (z. B. Éric Bertinat)
-• 	falsche Rollen (z. B. Viktor Rossi als Bundesrat statt Bundeskanzler)
-• 	falsche Angaben zum Bundespräsidenten 2026
+• 	ehemalige Bundesräte (z. B. Alain Berset, Viola Amherd)<br>
+• 	frei erfundene Bundesräte (z. B. Éric Bertinat)<br>
+• 	falsche Rollen (z. B. Viktor Rossi als Bundesrat statt Bundeskanzler)<br>
+• 	falsche Angaben zum Bundespräsidenten 2026<br>
 
 B) Halluzinationen
 Das Modell erfand:
