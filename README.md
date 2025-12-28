@@ -1,8 +1,5 @@
 # 📘 Patricia AI Labs – Portfolio & Lernreise
-Patricia [Nachname]
-AI Literacy • Critical Thinking • Creative Communication
-Portfolio 2025
-Zürich, Schweiz
+
 
 INHALTSVERZEICHNIS
 1. 	About Me
@@ -16,9 +13,13 @@ INHALTSVERZEICHNIS
 9. 	Contact
 
 1. ABOUT ME
+   
 📌 Deutsch
+
 Ich bin eine analytische, kreative und gesellschaftlich reflektierte Person mit einem starken Fokus auf KI‑Kompetenz, kritisches Denken und klare Kommunikation. Mein Portfolio zeigt, wie ich KI‑Modelle evaluiere, komplexe Themen strukturiere und kreative Methoden einsetze, um Inhalte verständlich und zugänglich zu machen.
+
 📌 English
+
 I am an analytical, creative, and socially aware thinker with a strong focus on AI literacy, critical reasoning, and clear communication. My portfolio demonstrates how I evaluate AI systems, structure complex topics, and use creative methods to make information accessible.
 
 ## 🇩🇪 Projekte (Deutsch)
